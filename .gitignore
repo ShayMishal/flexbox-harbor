@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Logs / deps (למקרה שיתווספו בהמשך)
+node_modules/
+*.log
